@@ -6,11 +6,31 @@ body {
 }
 
 p {
-    color: #FFCC00;
+    color: red;
+}
+
+.intro {
+    font-size: 30px;
+}
+
+.highlight{
+    background: violet;
 }
 
 h1{
     font-size: 70px;
     color: blue;
+}
+
+#top-section{
+    background: yellow;
+    width: 500px;
+    height: 500px;
+}
+
+#bottom-section{
+    background: rgb(6, 245, 38);
+    width: 500px;
+    height: 500px;
 }
 
